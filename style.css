@@ -1,3 +1,17 @@
 body {
-    background: blue;
+    background: #B0E0E0;
+}
+#title {
+    text-align: center;
+    background: #D3D3D3;
+}
+article {
+    background: #D6D9D3;
+}
+header.title {
+    font: sans-serif;
+    text-align: center;
+}
+button {
+    background: green;
 }
